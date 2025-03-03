@@ -1,5 +1,4 @@
 # City-Network-Degradation-and-Pathfinding-Algorithms-in-C
-# Managementul rețelelor bazate pe grafuri și găsirea de drumuri optime în C
 
 Acest proiect implementează algoritmi de graf pentru gestionarea unei rețele de orașe, urmărind degradarea secțiunilor de drum și găsirea drumurilor optime între orașe. Se concentrează pe simularea și gestionarea conexiunilor dintre orașe, analiza condiției drumurilor și furnizarea de capabilități de căutare a celor mai scurte drumuri folosind algoritmul Dijkstra.
 
